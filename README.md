@@ -276,7 +276,7 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;min
       <div class="sc-label">Total</div>
       <div class="sc-current" id="sc-total" style="color:var(--accent)">403</div>
       <div class="sc-meta">Meta: 450 · faltan <span id="gap-total"></span> pts</div>
-     <div class="sc-bar"><div class="sc-bar-fill" id="bar-ing" style="background:var(--accent)"></div></div></div></div>
+     <div class="sc-bar"><div class="sc-bar-fill" id="bar-ing" style="background:var(--accent)"></div></div>
     </div>
   </div>
 </div>
